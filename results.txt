@@ -1,0 +1,2981 @@
+
+
+001 Q0    13  1 0.2197134  Justice league
+
+001 Q0    746  2 0.1476317  Justice league
+
+001 Q0    792  3 0.1219854  Justice league
+
+001 Q0    875  4 0.1201697  Justice league
+
+001 Q0    486  5 0.1152495  Justice league
+
+001 Q0    184  6 0.1051485  Justice league
+
+001 Q0    51  7 0.1018708  Justice league
+
+001 Q0    359  8 0.08643711  Justice league
+
+001 Q0    1362  9 0.0840409  Justice league
+
+001 Q0    1340  10 0.07789857  Justice league
+
+001 Q0    315  11 0.07160635  Justice league
+
+001 Q0    747  12 0.07160635  Justice league
+
+001 Q0    1147  13 0.06925213  Justice league
+
+001 Q0    606  14 0.06925213  Justice league
+
+001 Q0    56  15 0.05762474  Justice league
+
+001 Q0    874  16 0.05660518  Justice league
+
+001 Q0    879  17 0.05660518  Justice league
+
+001 Q0    435  18 0.05540171  Justice league
+
+001 Q0    1144  19 0.05503752  Justice league
+
+001 Q0    1111  20 0.05326682  Justice league
+
+001 Q0    800  21 0.04851872  Justice league
+
+001 Q0    168  22 0.04710782  Justice league
+
+001 Q0    1250  23 0.04660847  Justice league
+
+001 Q0    1163  24 0.04403002  Justice league
+
+001 Q0    253  25 0.0427094  Justice league
+
+001 Q0    1328  26 0.04153366  Justice league
+
+001 Q0    316  27 0.0412611  Justice league
+
+001 Q0    12  28 0.03995011  Justice league
+
+001 Q0    1303  29 0.03995011  Justice league
+
+001 Q0    141  30 0.03995011  Justice league
+
+001 Q0    429  31 0.03995011  Justice league
+
+001 Q0    663  32 0.03995011  Justice league
+
+001 Q0    700  33 0.03995011  Justice league
+
+001 Q0    876  34 0.03995011  Justice league
+
+001 Q0    92  35 0.03995011  Justice league
+
+001 Q0    270  36 0.03938615  Justice league
+
+001 Q0    1389  37 0.03606286  Justice league
+
+001 Q0    1063  38 0.03329176  Justice league
+
+001 Q0    1380  39 0.03329176  Justice league
+
+001 Q0    193  40 0.03329176  Justice league
+
+001 Q0    203  41 0.03329176  Justice league
+
+001 Q0    280  42 0.03329176  Justice league
+
+001 Q0    391  43 0.03329176  Justice league
+
+001 Q0    945  44 0.03329176  Justice league
+
+001 Q0    1133  45 0.03302521  Justice league
+
+001 Q0    669  46 0.03302521  Justice league
+
+001 Q0    436  47 0.03231408  Justice league
+
+001 Q0    1263  48 0.03211601  Justice league
+
+001 Q0    1268  49 0.03211601  Justice league
+
+001 Q0    378  50 0.03211601  Justice league
+
+001 Q0    571  51 0.03206828  Justice league
+
+001 Q0    29  52 0.03140522  Justice league
+
+001 Q0    635  53 0.03140522  Justice league
+
+001 Q0    1041  54 0.03113646  Justice league
+
+001 Q0    122  55 0.0311345  Justice league
+
+001 Q0    1225  56 0.0311345  Justice league
+
+001 Q0    1128  57 0.03091102  Justice league
+
+001 Q0    202  58 0.02865733  Justice league
+
+001 Q0    101  59 0.0269284  Justice league
+
+001 Q0    1300  60 0.0269284  Justice league
+
+001 Q0    438  61 0.0269284  Justice league
+
+001 Q0    666  62 0.0269284  Justice league
+
+001 Q0    670  63 0.0269284  Justice league
+
+001 Q0    1182  64 0.02668671  Justice league
+
+001 Q0    1124  65 0.02663341  Justice league
+
+001 Q0    1155  66 0.02663341  Justice league
+
+001 Q0    1246  67 0.02663341  Justice league
+
+001 Q0    204  68 0.02663341  Justice league
+
+001 Q0    309  69 0.02663341  Justice league
+
+001 Q0    430  70 0.02663341  Justice league
+
+001 Q0    52  71 0.02663341  Justice league
+
+001 Q0    638  72 0.02663341  Justice league
+
+001 Q0    799  73 0.02663341  Justice league
+
+001 Q0    586  74 0.02654779  Justice league
+
+001 Q0    1050  75 0.02575919  Justice league
+
+001 Q0    564  76 0.02569281  Justice league
+
+001 Q0    268  77 0.02567671  Justice league
+
+001 Q0    274  78 0.02567671  Justice league
+
+001 Q0    305  79 0.02567671  Justice league
+
+001 Q0    576  80 0.02567671  Justice league
+
+001 Q0    646  81 0.02567671  Justice league
+
+001 Q0    781  82 0.02436293  Justice league
+
+001 Q0    237  83 0.02223893  Justice league
+
+001 Q0    353  84 0.02223893  Justice league
+
+001 Q0    566  85 0.02154272  Justice league
+
+001 Q0    655  86 0.02154272  Justice league
+
+001 Q0    707  87 0.02154272  Justice league
+
+001 Q0    102  88 0.02110416  Justice league
+
+001 Q0    100  89 0.02006013  Justice league
+
+001 Q0    909  90 0.02006013  Justice league
+
+001 Q0    914  91 0.02006013  Justice league
+
+001 Q0    685  92 0.01949034  Justice league
+
+001 Q0    880  93 0.01846614  Justice league
+
+001 Q0    834  94 0.01779114  Justice league
+
+001 Q0    1089  95 0.0171944  Justice league
+
+001 Q0    1169  96 0.0171944  Justice league
+
+001 Q0    209  97 0.0171944  Justice league
+
+001 Q0    47  98 0.0171944  Justice league
+
+001 Q0    725  99 0.0171944  Justice league
+
+001 Q0    78  100 0.0171944  Justice league
+
+001 Q0    883  101 0.0171944  Justice league
+
+001 Q0    667  102 0.01711781  Justice league
+
+001 Q0    358  103 0.01582812  Justice league
+
+001 Q0    878  104 0.01582812  Justice league
+
+001 Q0    95  105 0.01582812  Justice league
+
+001 Q0    1012  106 0.01432867  Justice league
+
+001 Q0    1165  107 0.01432867  Justice league
+
+001 Q0    1197  108 0.01432867  Justice league
+
+001 Q0    497  109 0.01432867  Justice league
+
+001 Q0    810  110 0.01432867  Justice league
+
+001 Q0    911  111 0.01432867  Justice league
+
+001 Q0    215  112 0.01360451  Justice league
+
+001 Q0    1215  113 0.01346778  Justice league
+
+001 Q0    285  114 0.01346778  Justice league
+
+001 Q0    552  115 0.01346778  Justice league
+
+001 Q0    687  116 0.01346778  Justice league
+
+001 Q0    252  117 0.0131901  Justice league
+
+001 Q0    643  118 0.0131901  Justice league
+
+001 Q0    686  119 0.0131901  Justice league
+
+001 Q0    1314  120 0.01154381  Justice league
+
+001 Q0    302  121 0.01154381  Justice league
+
+001 Q0    447  122 0.01154381  Justice league
+
+001 Q0    593  123 0.01154381  Justice league
+
+001 Q0    630  124 0.01154381  Justice league
+
+001 Q0    1166  125 0.01146293  Justice league
+
+001 Q0    1167  126 0.01146293  Justice league
+
+001 Q0    1168  127 0.01146293  Justice league
+
+001 Q0    1064  128 0.01055208  Justice league
+
+001 Q0    1090  129 0.01055208  Justice league
+
+001 Q0    1091  130 0.01055208  Justice league
+
+001 Q0    1162  131 0.01055208  Justice league
+
+001 Q0    1164  132 0.01055208  Justice league
+
+001 Q0    311  133 0.01055208  Justice league
+
+001 Q0    431  134 0.01055208  Justice league
+
+001 Q0    516  135 0.01055208  Justice league
+
+001 Q0    973  136 0.01055208  Justice league
+
+001 Q0    142  137 0.01030106  Justice league
+
+001 Q0    144  138 0.01030106  Justice league
+
+001 Q0    21  139 0.01030106  Justice league
+
+001 Q0    399  140 0.01030106  Justice league
+
+001 Q0    518  141 0.01030106  Justice league
+
+001 Q0    585  142 0.01030106  Justice league
+
+001 Q0    623  143 0.01030106  Justice league
+
+001 Q0    959  144 0.01030106  Justice league
+
+001 Q0    963  145 0.01030106  Justice league
+
+001 Q0    225  146 0.009836451  Justice league
+
+001 Q0    406  147 0.009836451  Justice league
+
+001 Q0    41  148 0.009836451  Justice league
+
+001 Q0    814  149 0.009836451  Justice league
+
+001 Q0    925  150 0.009836451  Justice league
+
+001 Q0    1062  151 0.009619844  Justice league
+
+001 Q0    1098  152 0.009619844  Justice league
+
+001 Q0    1140  153 0.009619844  Justice league
+
+001 Q0    1315  154 0.009619844  Justice league
+
+001 Q0    264  155 0.009619844  Justice league
+
+001 Q0    373  156 0.009619844  Justice league
+
+001 Q0    549  157 0.009619844  Justice league
+
+001 Q0    767  158 0.009619844  Justice league
+
+001 Q0    776  159 0.009619844  Justice league
+
+001 Q0    755  160 0.009233069  Justice league
+
+001 Q0    303  161 0.009104936  Justice league
+
+001 Q0    584  162 0.009104936  Justice league
+
+001 Q0    159  163 0.009013427  Justice league
+
+001 Q0    181  164 0.009013427  Justice league
+
+001 Q0    398  165 0.009013427  Justice league
+
+001 Q0    437  166 0.009013427  Justice league
+
+001 Q0    485  167 0.009013427  Justice league
+
+001 Q0    542  168 0.009013427  Justice league
+
+001 Q0    554  169 0.009013427  Justice league
+
+001 Q0    579  170 0.009013427  Justice league
+
+001 Q0    1002  171 0.008431245  Justice league
+
+001 Q0    1084  172 0.008431245  Justice league
+
+001 Q0    1285  173 0.008431245  Justice league
+
+001 Q0    139  174 0.008431245  Justice league
+
+001 Q0    176  175 0.008431245  Justice league
+
+001 Q0    179  176 0.008431245  Justice league
+
+001 Q0    226  177 0.008431245  Justice league
+
+001 Q0    251  178 0.008431245  Justice league
+
+001 Q0    40  179 0.008431245  Justice league
+
+001 Q0    519  180 0.008431245  Justice league
+
+001 Q0    53  181 0.008431245  Justice league
+
+001 Q0    536  182 0.008431245  Justice league
+
+001 Q0    679  183 0.008431245  Justice league
+
+001 Q0    774  184 0.008431245  Justice league
+
+001 Q0    1161  185 0.007725795  Justice league
+
+001 Q0    1177  186 0.007725795  Justice league
+
+001 Q0    119  187 0.007725795  Justice league
+
+001 Q0    1191  188 0.007725795  Justice league
+
+001 Q0    120  189 0.007725795  Justice league
+
+001 Q0    1207  190 0.007725795  Justice league
+
+001 Q0    1219  191 0.007725795  Justice league
+
+001 Q0    1264  192 0.007725795  Justice league
+
+001 Q0    1348  193 0.007725795  Justice league
+
+001 Q0    1361  194 0.007725795  Justice league
+
+001 Q0    1393  195 0.007725795  Justice league
+
+001 Q0    158  196 0.007725795  Justice league
+
+001 Q0    22  197 0.007725795  Justice league
+
+001 Q0    24  198 0.007725795  Justice league
+
+001 Q0    240  199 0.007725795  Justice league
+
+001 Q0    283  200 0.007725795  Justice league
+
+001 Q0    295  201 0.007725795  Justice league
+
+001 Q0    350  202 0.007725795  Justice league
+
+001 Q0    387  203 0.007725795  Justice league
+
+001 Q0    395  204 0.007725795  Justice league
+
+001 Q0    500  205 0.007725795  Justice league
+
+001 Q0    524  206 0.007725795  Justice league
+
+001 Q0    550  207 0.007725795  Justice league
+
+001 Q0    559  208 0.007725795  Justice league
+
+001 Q0    6  209 0.007725795  Justice league
+
+001 Q0    877  210 0.007725795  Justice league
+
+001 Q0    962  211 0.007725795  Justice league
+
+001 Q0    98  212 0.007725795  Justice league
+
+001 Q0    983  213 0.007725795  Justice league
+
+001 Q0    1143  214 0.007695875  Justice league
+
+001 Q0    244  215 0.007695875  Justice league
+
+001 Q0    413  216 0.007695875  Justice league
+
+001 Q0    441  217 0.007695875  Justice league
+
+001 Q0    572  218 0.007695875  Justice league
+
+001 Q0    615  219 0.007695875  Justice league
+
+001 Q0    865  220 0.007695875  Justice league
+
+001 Q0    5  221 0.007283949  Justice league
+
+001 Q0    1114  222 0.007026037  Justice league
+
+001 Q0    1211  223 0.007026037  Justice league
+
+001 Q0    1212  224 0.007026037  Justice league
+
+001 Q0    1274  225 0.007026037  Justice league
+
+001 Q0    1319  226 0.007026037  Justice league
+
+001 Q0    1320  227 0.007026037  Justice league
+
+001 Q0    1341  228 0.007026037  Justice league
+
+001 Q0    211  229 0.007026037  Justice league
+
+001 Q0    222  230 0.007026037  Justice league
+
+001 Q0    242  231 0.007026037  Justice league
+
+001 Q0    287  232 0.007026037  Justice league
+
+001 Q0    334  233 0.007026037  Justice league
+
+001 Q0    464  234 0.007026037  Justice league
+
+001 Q0    508  235 0.007026037  Justice league
+
+001 Q0    513  236 0.007026037  Justice league
+
+001 Q0    60  237 0.007026037  Justice league
+
+001 Q0    631  238 0.007026037  Justice league
+
+001 Q0    671  239 0.007026037  Justice league
+
+001 Q0    7  240 0.007026037  Justice league
+
+001 Q0    70  241 0.007026037  Justice league
+
+001 Q0    708  242 0.007026037  Justice league
+
+001 Q0    795  243 0.007026037  Justice league
+
+001 Q0    904  244 0.007026037  Justice league
+
+001 Q0    916  245 0.007026037  Justice league
+
+001 Q0    923  246 0.007026037  Justice league
+
+001 Q0    976  247 0.007026037  Justice league
+
+001 Q0    1104  248 0.006438163  Justice league
+
+001 Q0    1185  249 0.006438163  Justice league
+
+001 Q0    1226  250 0.006438163  Justice league
+
+001 Q0    135  251 0.006438163  Justice league
+
+001 Q0    1366  252 0.006438163  Justice league
+
+001 Q0    1394  253 0.006438163  Justice league
+
+001 Q0    1395  254 0.006438163  Justice league
+
+001 Q0    154  255 0.006438163  Justice league
+
+001 Q0    352  256 0.006438163  Justice league
+
+001 Q0    37  257 0.006438163  Justice league
+
+001 Q0    383  258 0.006438163  Justice league
+
+001 Q0    396  259 0.006438163  Justice league
+
+001 Q0    45  260 0.006438163  Justice league
+
+001 Q0    493  261 0.006438163  Justice league
+
+001 Q0    539  262 0.006438163  Justice league
+
+001 Q0    62  263 0.006438163  Justice league
+
+001 Q0    668  264 0.006438163  Justice league
+
+001 Q0    784  265 0.006438163  Justice league
+
+001 Q0    789  266 0.006438163  Justice league
+
+001 Q0    81  267 0.006438163  Justice league
+
+001 Q0    872  268 0.006438163  Justice league
+
+001 Q0    873  269 0.006438163  Justice league
+
+001 Q0    981  270 0.006438163  Justice league
+
+001 Q0    982  271 0.006438163  Justice league
+
+001 Q0    662  272 0.006373456  Justice league
+
+001 Q0    1095  273 0.005620829  Justice league
+
+001 Q0    1305  274 0.005620829  Justice league
+
+001 Q0    1339  275 0.005620829  Justice league
+
+001 Q0    174  276 0.005620829  Justice league
+
+001 Q0    197  277 0.005620829  Justice league
+
+001 Q0    238  278 0.005620829  Justice league
+
+001 Q0    239  279 0.005620829  Justice league
+
+001 Q0    248  280 0.005620829  Justice league
+
+001 Q0    421  281 0.005620829  Justice league
+
+001 Q0    433  282 0.005620829  Justice league
+
+001 Q0    442  283 0.005620829  Justice league
+
+001 Q0    568  284 0.005620829  Justice league
+
+001 Q0    676  285 0.005620829  Justice league
+
+001 Q0    683  286 0.005620829  Justice league
+
+001 Q0    704  287 0.005620829  Justice league
+
+001 Q0    709  288 0.005620829  Justice league
+
+001 Q0    712  289 0.005620829  Justice league
+
+001 Q0    790  290 0.005620829  Justice league
+
+001 Q0    796  291 0.005620829  Justice league
+
+001 Q0    797  292 0.005620829  Justice league
+
+001 Q0    80  293 0.005620829  Justice league
+
+001 Q0    924  294 0.005620829  Justice league
+
+001 Q0    927  295 0.005620829  Justice league
+
+001 Q0    1073  296 0.00515053  Justice league
+
+001 Q0    1096  297 0.00515053  Justice league
+
+001 Q0    1106  298 0.00515053  Justice league
+
+001 Q0    1107  299 0.00515053  Justice league
+
+001 Q0    1159  300 0.00515053  Justice league
+
+001 Q0    1192  301 0.00515053  Justice league
+
+001 Q0    1204  302 0.00515053  Justice league
+
+001 Q0    1213  303 0.00515053  Justice league
+
+001 Q0    1258  304 0.00515053  Justice league
+
+001 Q0    1281  305 0.00515053  Justice league
+
+001 Q0    1386  306 0.00515053  Justice league
+
+001 Q0    23  307 0.00515053  Justice league
+
+001 Q0    260  308 0.00515053  Justice league
+
+001 Q0    269  309 0.00515053  Justice league
+
+001 Q0    294  310 0.00515053  Justice league
+
+001 Q0    325  311 0.00515053  Justice league
+
+001 Q0    339  312 0.00515053  Justice league
+
+001 Q0    354  313 0.00515053  Justice league
+
+001 Q0    509  314 0.00515053  Justice league
+
+001 Q0    522  315 0.00515053  Justice league
+
+001 Q0    54  316 0.00515053  Justice league
+
+001 Q0    546  317 0.00515053  Justice league
+
+001 Q0    55  318 0.00515053  Justice league
+
+001 Q0    555  319 0.00515053  Justice league
+
+001 Q0    560  320 0.00515053  Justice league
+
+001 Q0    651  321 0.00515053  Justice league
+
+001 Q0    66  322 0.00515053  Justice league
+
+001 Q0    689  323 0.00515053  Justice league
+
+001 Q0    715  324 0.00515053  Justice league
+
+001 Q0    754  325 0.00515053  Justice league
+
+001 Q0    82  326 0.00515053  Justice league
+
+001 Q0    859  327 0.00515053  Justice league
+
+001 Q0    860  328 0.00515053  Justice league
+
+001 Q0    861  329 0.00515053  Justice league
+
+001 Q0    944  330 0.00515053  Justice league
+
+001 Q0    980  331 0.00515053  Justice league
+
+001 Q0    1289  332 0.004918226  Justice league
+
+001 Q0    711  333 0.004918226  Justice league
+
+001 Q0    991  334 0.004918226  Justice league
+
+001 Q0    1307  335 0.004506714  Justice league
+
+002 Q0    746  1 0.6619626  Justice league
+
+002 Q0    792  2 0.3712591  Justice league
+
+002 Q0    12  3 0.3409939  Justice league
+
+002 Q0    700  4 0.3293857  Justice league
+
+002 Q0    834  5 0.2036707  Justice league
+
+002 Q0    810  6 0.1939661  Justice league
+
+002 Q0    92  7 0.1809142  Justice league
+
+002 Q0    141  8 0.1774126  Justice league
+
+002 Q0    606  9 0.1478439  Justice league
+
+002 Q0    1380  10 0.1435067  Justice league
+
+002 Q0    909  11 0.1296044  Justice league
+
+002 Q0    1379  12 0.128407  Justice league
+
+002 Q0    1246  13 0.1148054  Justice league
+
+002 Q0    47  14 0.1110895  Justice league
+
+002 Q0    725  15 0.1110895  Justice league
+
+002 Q0    883  16 0.1110895  Justice league
+
+002 Q0    395  17 0.1021093  Justice league
+
+002 Q0    1012  18 0.09257457  Justice league
+
+002 Q0    497  19 0.09257457  Justice league
+
+002 Q0    51  20 0.09257457  Justice league
+
+002 Q0    911  21 0.09257457  Justice league
+
+002 Q0    1111  22 0.09118348  Justice league
+
+002 Q0    1041  23 0.08832849  Justice league
+
+002 Q0    833  24 0.08219969  Justice league
+
+002 Q0    1250  25 0.07978554  Justice league
+
+002 Q0    253  26 0.07311103  Justice league
+
+002 Q0    264  27 0.07161646  Justice league
+
+002 Q0    316  28 0.07063179  Justice league
+
+002 Q0    1303  29 0.06838761  Justice league
+
+002 Q0    429  30 0.06838761  Justice league
+
+002 Q0    663  31 0.06838761  Justice league
+
+002 Q0    876  32 0.06838761  Justice league
+
+002 Q0    875  33 0.06672813  Justice league
+
+002 Q0    101  34 0.0656276  Justice league
+
+002 Q0    1362  35 0.06091065  Justice league
+
+002 Q0    184  36 0.05838711  Justice league
+
+002 Q0    1063  37 0.05698967  Justice league
+
+002 Q0    1147  38 0.05698967  Justice league
+
+002 Q0    193  39 0.05698967  Justice league
+
+002 Q0    203  40 0.05698967  Justice league
+
+002 Q0    280  41 0.05698967  Justice league
+
+002 Q0    391  42 0.05698967  Justice league
+
+002 Q0    945  43 0.05698967  Justice league
+
+002 Q0    122  44 0.05329682  Justice league
+
+002 Q0    1225  45 0.05329682  Justice league
+
+002 Q0    1095  46 0.05250207  Justice league
+
+002 Q0    135  47 0.0500461  Justice league
+
+002 Q0    21  48 0.0500461  Justice league
+
+002 Q0    333  49 0.0500461  Justice league
+
+002 Q0    492  50 0.0500461  Justice league
+
+002 Q0    645  51 0.0500461  Justice league
+
+002 Q0    202  52 0.04905634  Justice league
+
+002 Q0    1182  53 0.04568299  Justice league
+
+002 Q0    1124  54 0.04559174  Justice league
+
+002 Q0    1155  55 0.04559174  Justice league
+
+002 Q0    204  56 0.04559174  Justice league
+
+002 Q0    309  57 0.04559174  Justice league
+
+002 Q0    315  58 0.04559174  Justice league
+
+002 Q0    430  59 0.04559174  Justice league
+
+002 Q0    435  60 0.04559174  Justice league
+
+002 Q0    52  61 0.04559174  Justice league
+
+002 Q0    638  62 0.04559174  Justice league
+
+002 Q0    747  63 0.04559174  Justice league
+
+002 Q0    799  64 0.04559174  Justice league
+
+002 Q0    781  65 0.04170508  Justice league
+
+002 Q0    237  66 0.03806915  Justice league
+
+002 Q0    353  67 0.03806915  Justice league
+
+002 Q0    1327  68 0.03481458  Justice league
+
+002 Q0    724  69 0.03481458  Justice league
+
+002 Q0    726  70 0.03481458  Justice league
+
+002 Q0    100  71 0.03433944  Justice league
+
+002 Q0    914  72 0.03433944  Justice league
+
+002 Q0    685  73 0.03336406  Justice league
+
+002 Q0    142  74 0.03094518  Justice league
+
+002 Q0    368  75 0.03094518  Justice league
+
+002 Q0    414  76 0.03094518  Justice league
+
+002 Q0    585  77 0.03094518  Justice league
+
+002 Q0    648  78 0.03094518  Justice league
+
+002 Q0    650  79 0.03094518  Justice league
+
+002 Q0    756  80 0.03046275  Justice league
+
+002 Q0    884  81 0.03046275  Justice league
+
+002 Q0    1089  82 0.02943381  Justice league
+
+002 Q0    1169  83 0.02943381  Justice league
+
+002 Q0    209  84 0.02943381  Justice league
+
+002 Q0    78  85 0.02943381  Justice league
+
+002 Q0    1003  86 0.02910103  Justice league
+
+002 Q0    1004  87 0.02910103  Justice league
+
+002 Q0    1005  88 0.02910103  Justice league
+
+002 Q0    1006  89 0.02910103  Justice league
+
+002 Q0    1007  90 0.02910103  Justice league
+
+002 Q0    1008  91 0.02910103  Justice league
+
+002 Q0    1009  92 0.02910103  Justice league
+
+002 Q0    1010  93 0.02910103  Justice league
+
+002 Q0    1011  94 0.02910103  Justice league
+
+002 Q0    290  95 0.02910103  Justice league
+
+002 Q0    804  96 0.02910103  Justice league
+
+002 Q0    968  97 0.02910103  Justice league
+
+002 Q0    1138  98 0.02707704  Justice league
+
+002 Q0    1209  99 0.02707704  Justice league
+
+002 Q0    181  100 0.02707704  Justice league
+
+002 Q0    444  101 0.02707704  Justice league
+
+002 Q0    787  102 0.02707704  Justice league
+
+002 Q0    835  103 0.02707704  Justice league
+
+002 Q0    1170  104 0.02611093  Justice league
+
+002 Q0    1361  105 0.02611093  Justice league
+
+002 Q0    640  106 0.02611093  Justice league
+
+002 Q0    654  107 0.02611093  Justice league
+
+002 Q0    720  108 0.02611093  Justice league
+
+002 Q0    75  109 0.02611093  Justice league
+
+002 Q0    862  110 0.02611093  Justice league
+
+002 Q0    803  111 0.02494374  Justice league
+
+002 Q0    83  112 0.02494374  Justice league
+
+002 Q0    1144  113 0.02452817  Justice league
+
+002 Q0    1165  114 0.02452817  Justice league
+
+002 Q0    1197  115 0.02452817  Justice league
+
+002 Q0    1328  116 0.02452817  Justice league
+
+002 Q0    215  117 0.02328855  Justice league
+
+002 Q0    11  118 0.02320889  Justice league
+
+002 Q0    1198  119 0.02320889  Justice league
+
+002 Q0    1217  120 0.02320889  Justice league
+
+002 Q0    1224  121 0.02320889  Justice league
+
+002 Q0    322  122 0.02320889  Justice league
+
+002 Q0    363  123 0.02320889  Justice league
+
+002 Q0    425  124 0.02320889  Justice league
+
+002 Q0    527  125 0.02320889  Justice league
+
+002 Q0    540  126 0.02320889  Justice league
+
+002 Q0    731  127 0.02320889  Justice league
+
+002 Q0    854  128 0.02320889  Justice league
+
+002 Q0    93  129 0.02320889  Justice league
+
+002 Q0    1215  130 0.02305449  Justice league
+
+002 Q0    285  131 0.02305449  Justice league
+
+002 Q0    552  132 0.02305449  Justice league
+
+002 Q0    687  133 0.02305449  Justice league
+
+002 Q0    1130  134 0.02175911  Justice league
+
+002 Q0    195  135 0.02175911  Justice league
+
+002 Q0    30  136 0.02175911  Justice league
+
+002 Q0    723  137 0.02175911  Justice league
+
+002 Q0    762  138 0.02175911  Justice league
+
+002 Q0    837  139 0.02175911  Justice league
+
+002 Q0    1065  140 0.02078645  Justice league
+
+002 Q0    1331  141 0.02078645  Justice league
+
+002 Q0    1377  142 0.02078645  Justice league
+
+002 Q0    275  143 0.02078645  Justice league
+
+002 Q0    505  144 0.02078645  Justice league
+
+002 Q0    574  145 0.02078645  Justice league
+
+002 Q0    76  146 0.02078645  Justice league
+
+002 Q0    1314  147 0.01976099  Justice league
+
+002 Q0    302  148 0.01976099  Justice league
+
+002 Q0    447  149 0.01976099  Justice league
+
+002 Q0    593  150 0.01976099  Justice league
+
+002 Q0    630  151 0.01976099  Justice league
+
+002 Q0    1163  152 0.01962254  Justice league
+
+002 Q0    1166  153 0.01962254  Justice league
+
+002 Q0    1167  154 0.01962254  Justice league
+
+002 Q0    1168  155 0.01962254  Justice league
+
+002 Q0    1311  156 0.01934074  Justice league
+
+002 Q0    304  157 0.01934074  Justice league
+
+002 Q0    320  158 0.01934074  Justice league
+
+002 Q0    321  159 0.01934074  Justice league
+
+002 Q0    369  160 0.01934074  Justice league
+
+002 Q0    561  161 0.01934074  Justice league
+
+002 Q0    641  162 0.01934074  Justice league
+
+002 Q0    777  163 0.01934074  Justice league
+
+002 Q0    855  164 0.01934074  Justice league
+
+002 Q0    571  165 0.01863084  Justice league
+
+002 Q0    171  166 0.01740729  Justice league
+
+002 Q0    860  167 0.01740729  Justice league
+
+002 Q0    979  168 0.01740729  Justice league
+
+002 Q0    225  169 0.01683829  Justice league
+
+002 Q0    406  170 0.01683829  Justice league
+
+002 Q0    41  171 0.01683829  Justice league
+
+002 Q0    814  172 0.01683829  Justice league
+
+002 Q0    874  173 0.01683829  Justice league
+
+002 Q0    879  174 0.01683829  Justice league
+
+002 Q0    925  175 0.01683829  Justice league
+
+002 Q0    1000  176 0.01662916  Justice league
+
+002 Q0    1106  177 0.01662916  Justice league
+
+002 Q0    431  178 0.01662916  Justice league
+
+002 Q0    516  179 0.01662916  Justice league
+
+002 Q0    545  180 0.01662916  Justice league
+
+002 Q0    715  181 0.01662916  Justice league
+
+002 Q0    805  182 0.01662916  Justice league
+
+002 Q0    812  183 0.01662916  Justice league
+
+002 Q0    1062  184 0.01646749  Justice league
+
+002 Q0    1098  185 0.01646749  Justice league
+
+002 Q0    1140  186 0.01646749  Justice league
+
+002 Q0    1263  187 0.01646749  Justice league
+
+002 Q0    1268  188 0.01646749  Justice league
+
+002 Q0    1315  189 0.01646749  Justice league
+
+002 Q0    373  190 0.01646749  Justice league
+
+002 Q0    378  191 0.01646749  Justice league
+
+002 Q0    549  192 0.01646749  Justice league
+
+002 Q0    767  193 0.01646749  Justice league
+
+002 Q0    776  194 0.01646749  Justice league
+
+002 Q0    1240  195 0.01547259  Justice league
+
+002 Q0    1392  196 0.01547259  Justice league
+
+002 Q0    266  197 0.01547259  Justice league
+
+002 Q0    1002  198 0.01443282  Justice league
+
+002 Q0    1084  199 0.01443282  Justice league
+
+002 Q0    1285  200 0.01443282  Justice league
+
+002 Q0    139  201 0.01443282  Justice league
+
+002 Q0    176  202 0.01443282  Justice league
+
+002 Q0    179  203 0.01443282  Justice league
+
+002 Q0    226  204 0.01443282  Justice league
+
+002 Q0    251  205 0.01443282  Justice league
+
+002 Q0    40  206 0.01443282  Justice league
+
+002 Q0    436  207 0.01443282  Justice league
+
+002 Q0    519  208 0.01443282  Justice league
+
+002 Q0    53  209 0.01443282  Justice league
+
+002 Q0    536  210 0.01443282  Justice league
+
+002 Q0    679  211 0.01443282  Justice league
+
+002 Q0    774  212 0.01443282  Justice league
+
+002 Q0    800  213 0.01443282  Justice league
+
+002 Q0    695  214 0.01353852  Justice league
+
+002 Q0    1143  215 0.01317399  Justice league
+
+002 Q0    244  216 0.01317399  Justice league
+
+002 Q0    413  217 0.01317399  Justice league
+
+002 Q0    441  218 0.01317399  Justice league
+
+002 Q0    564  219 0.01317399  Justice league
+
+002 Q0    572  220 0.01317399  Justice league
+
+002 Q0    615  221 0.01317399  Justice league
+
+002 Q0    865  222 0.01317399  Justice league
+
+002 Q0    1114  223 0.01202735  Justice league
+
+002 Q0    1211  224 0.01202735  Justice league
+
+002 Q0    1212  225 0.01202735  Justice league
+
+002 Q0    1274  226 0.01202735  Justice league
+
+002 Q0    1300  227 0.01202735  Justice league
+
+002 Q0    1319  228 0.01202735  Justice league
+
+002 Q0    1320  229 0.01202735  Justice league
+
+002 Q0    1341  230 0.01202735  Justice league
+
+002 Q0    211  231 0.01202735  Justice league
+
+002 Q0    222  232 0.01202735  Justice league
+
+002 Q0    242  233 0.01202735  Justice league
+
+002 Q0    287  234 0.01202735  Justice league
+
+002 Q0    334  235 0.01202735  Justice league
+
+002 Q0    438  236 0.01202735  Justice league
+
+002 Q0    464  237 0.01202735  Justice league
+
+002 Q0    508  238 0.01202735  Justice league
+
+002 Q0    513  239 0.01202735  Justice league
+
+002 Q0    60  240 0.01202735  Justice league
+
+002 Q0    631  241 0.01202735  Justice league
+
+002 Q0    666  242 0.01202735  Justice league
+
+002 Q0    670  243 0.01202735  Justice league
+
+002 Q0    671  244 0.01202735  Justice league
+
+002 Q0    7  245 0.01202735  Justice league
+
+002 Q0    70  246 0.01202735  Justice league
+
+002 Q0    708  247 0.01202735  Justice league
+
+002 Q0    795  248 0.01202735  Justice league
+
+002 Q0    904  249 0.01202735  Justice league
+
+002 Q0    916  250 0.01202735  Justice league
+
+002 Q0    923  251 0.01202735  Justice league
+
+002 Q0    976  252 0.01202735  Justice league
+
+002 Q0    1305  253 0.009621877  Justice league
+
+002 Q0    1339  254 0.009621877  Justice league
+
+002 Q0    174  255 0.009621877  Justice league
+
+002 Q0    197  256 0.009621877  Justice league
+
+002 Q0    238  257 0.009621877  Justice league
+
+002 Q0    239  258 0.009621877  Justice league
+
+002 Q0    248  259 0.009621877  Justice league
+
+002 Q0    421  260 0.009621877  Justice league
+
+002 Q0    433  261 0.009621877  Justice league
+
+002 Q0    442  262 0.009621877  Justice league
+
+002 Q0    566  263 0.009621877  Justice league
+
+002 Q0    568  264 0.009621877  Justice league
+
+002 Q0    655  265 0.009621877  Justice league
+
+002 Q0    676  266 0.009621877  Justice league
+
+002 Q0    683  267 0.009621877  Justice league
+
+002 Q0    704  268 0.009621877  Justice league
+
+002 Q0    707  269 0.009621877  Justice league
+
+002 Q0    709  270 0.009621877  Justice league
+
+002 Q0    712  271 0.009621877  Justice league
+
+002 Q0    790  272 0.009621877  Justice league
+
+002 Q0    796  273 0.009621877  Justice league
+
+002 Q0    797  274 0.009621877  Justice league
+
+002 Q0    80  275 0.009621877  Justice league
+
+002 Q0    924  276 0.009621877  Justice league
+
+002 Q0    927  277 0.009621877  Justice league
+
+002 Q0    1289  278 0.008419143  Justice league
+
+002 Q0    711  279 0.008419143  Justice league
+
+002 Q0    991  280 0.008419143  Justice league
+
+023 Q0    624  1 0.930775  Justice league
+
+023 Q0    590  2 0.1169777  Justice league
+
+023 Q0    19  3 0.1096967  Justice league
+
+023 Q0    1222  4 0.108771  Justice league
+
+023 Q0    1164  5 0.1058363  Justice league
+
+023 Q0    1221  6 0.1019477  Justice league
+
+023 Q0    966  7 0.1019477  Justice league
+
+023 Q0    245  8 0.0873384  Justice league
+
+023 Q0    34  9 0.08157822  Justice league
+
+023 Q0    941  10 0.08157822  Justice league
+
+023 Q0    297  11 0.07747723  Justice league
+
+023 Q0    1342  12 0.07712093  Justice league
+
+023 Q0    1334  13 0.07674113  Justice league
+
+023 Q0    987  14 0.07085811  Justice league
+
+023 Q0    939  15 0.06798186  Justice league
+
+023 Q0    1165  16 0.06238458  Justice league
+
+023 Q0    899  17 0.05990168  Justice league
+
+023 Q0    1304  18 0.05662124  Justice league
+
+023 Q0    798  19 0.05529644  Justice league
+
+023 Q0    270  20 0.05438549  Justice league
+
+023 Q0    1144  21 0.05427454  Justice league
+
+023 Q0    1223  22 0.05427454  Justice league
+
+023 Q0    86  23 0.05427454  Justice league
+
+023 Q0    749  24 0.0513443  Justice league
+
+023 Q0    1091  25 0.04990766  Justice league
+
+023 Q0    1167  26 0.04990766  Justice league
+
+023 Q0    1094  27 0.04859098  Justice league
+
+023 Q0    458  28 0.04576636  Justice league
+
+023 Q0    489  29 0.04576636  Justice league
+
+023 Q0    632  30 0.04576636  Justice league
+
+023 Q0    658  31 0.04278692  Justice league
+
+023 Q0    715  32 0.04278298  Justice league
+
+023 Q0    213  33 0.04171675  Justice league
+
+023 Q0    329  34 0.04161226  Justice league
+
+023 Q0    530  35 0.04161226  Justice league
+
+023 Q0    370  36 0.04127466  Justice league
+
+023 Q0    552  37 0.04127466  Justice league
+
+023 Q0    1289  38 0.03856046  Justice league
+
+023 Q0    1262  39 0.03813863  Justice league
+
+023 Q0    135  40 0.03813863  Justice league
+
+023 Q0    1390  41 0.03813863  Justice league
+
+023 Q0    206  42 0.03813863  Justice league
+
+023 Q0    231  43 0.03813863  Justice league
+
+023 Q0    498  44 0.03813863  Justice league
+
+023 Q0    601  45 0.03813863  Justice league
+
+023 Q0    1388  46 0.03801813  Justice league
+
+023 Q0    600  47 0.03699893  Justice league
+
+023 Q0    1273  48 0.03617483  Justice league
+
+023 Q0    182  49 0.03617483  Justice league
+
+023 Q0    1112  50 0.03467688  Justice league
+
+023 Q0    748  51 0.03467688  Justice league
+
+023 Q0    1352  52 0.03422953  Justice league
+
+023 Q0    66  53 0.03422953  Justice league
+
+023 Q0    685  54 0.03422953  Justice league
+
+023 Q0    972  55 0.03422953  Justice league
+
+023 Q0    652  56 0.03178698  Justice league
+
+023 Q0    1207  57 0.03128757  Justice league
+
+023 Q0    77  58 0.03128757  Justice league
+
+023 Q0    1139  59 0.031007  Justice league
+
+023 Q0    1227  60 0.031007  Justice league
+
+023 Q0    1229  61 0.031007  Justice league
+
+023 Q0    133  62 0.031007  Justice league
+
+023 Q0    26  63 0.031007  Justice league
+
+023 Q0    122  64 0.0305109  Justice league
+
+023 Q0    1332  65 0.0305109  Justice league
+
+023 Q0    247  66 0.0305109  Justice league
+
+023 Q0    266  67 0.0305109  Justice league
+
+023 Q0    435  68 0.0305109  Justice league
+
+023 Q0    917  69 0.0305109  Justice league
+
+023 Q0    815  70 0.02995084  Justice league
+
+023 Q0    691  71 0.02669704  Justice league
+
+023 Q0    1315  72 0.02607297  Justice league
+
+023 Q0    215  73 0.02607297  Justice league
+
+023 Q0    543  74 0.02607297  Justice league
+
+023 Q0    1142  75 0.02583917  Justice league
+
+023 Q0    1205  76 0.02583917  Justice league
+
+023 Q0    1274  77 0.02583917  Justice league
+
+023 Q0    1287  78 0.02583917  Justice league
+
+023 Q0    1319  79 0.02583917  Justice league
+
+023 Q0    1351  80 0.02583917  Justice league
+
+023 Q0    187  81 0.02583917  Justice league
+
+023 Q0    201  82 0.02583917  Justice league
+
+023 Q0    211  83 0.02583917  Justice league
+
+023 Q0    324  84 0.02583917  Justice league
+
+023 Q0    529  85 0.02583917  Justice league
+
+023 Q0    94  86 0.02583917  Justice league
+
+023 Q0    96  87 0.02583917  Justice league
+
+023 Q0    992  88 0.02583917  Justice league
+
+023 Q0    253  89 0.02270499  Justice league
+
+023 Q0    631  90 0.02270499  Justice league
+
+023 Q0    643  91 0.02270499  Justice league
+
+023 Q0    1286  92 0.02085838  Justice league
+
+023 Q0    603  93 0.02085838  Justice league
+
+023 Q0    796  94 0.02085838  Justice league
+
+023 Q0    1076  95 0.02067133  Justice league
+
+023 Q0    1107  96 0.02067133  Justice league
+
+023 Q0    1204  97 0.02067133  Justice league
+
+023 Q0    1213  98 0.02067133  Justice league
+
+023 Q0    1367  99 0.02067133  Justice league
+
+023 Q0    208  100 0.02067133  Justice league
+
+023 Q0    326  101 0.02067133  Justice league
+
+023 Q0    340  102 0.02067133  Justice league
+
+023 Q0    572  103 0.02067133  Justice league
+
+023 Q0    714  104 0.02067133  Justice league
+
+023 Q0    797  105 0.02067133  Justice league
+
+023 Q0    1244  106 0.02064985  Justice league
+
+023 Q0    1271  107 0.02064985  Justice league
+
+023 Q0    1335  108 0.02064985  Justice league
+
+023 Q0    137  109 0.02064985  Justice league
+
+023 Q0    142  110 0.02064985  Justice league
+
+023 Q0    33  111 0.02064985  Justice league
+
+023 Q0    1365  112 0.02049184  Justice league
+
+023 Q0    747  113 0.01816399  Justice league
+
+023 Q0    805  114 0.01816399  Justice league
+
+023 Q0    806  115 0.01816399  Justice league
+
+023 Q0    807  116 0.01816399  Justice league
+
+023 Q0    993  117 0.01808742  Justice league
+
+023 Q0    1  118 0.01806862  Justice league
+
+023 Q0    1209  119 0.01806862  Justice league
+
+023 Q0    1333  120 0.01806862  Justice league
+
+023 Q0    1345  121 0.01806862  Justice league
+
+023 Q0    14  122 0.01806862  Justice league
+
+023 Q0    172  123 0.01806862  Justice league
+
+023 Q0    185  124 0.01806862  Justice league
+
+023 Q0    608  125 0.01806862  Justice league
+
+023 Q0    896  126 0.01756444  Justice league
+
+023 Q0    1089  127 0.01548739  Justice league
+
+023 Q0    141  128 0.01548739  Justice league
+
+023 Q0    356  129 0.01548739  Justice league
+
+023 Q0    357  130 0.01548739  Justice league
+
+023 Q0    415  131 0.01548739  Justice league
+
+023 Q0    877  132 0.01548739  Justice league
+
+023 Q0    1082  133 0.0147555  Justice league
+
+023 Q0    1185  134 0.01463703  Justice league
+
+023 Q0    1234  135 0.01463703  Justice league
+
+023 Q0    1261  136 0.01463703  Justice league
+
+023 Q0    1331  137 0.01463703  Justice league
+
+023 Q0    1384  138 0.01463703  Justice league
+
+023 Q0    203  139 0.01463703  Justice league
+
+023 Q0    249  140 0.01463703  Justice league
+
+023 Q0    292  141 0.01463703  Justice league
+
+023 Q0    336  142 0.01463703  Justice league
+
+023 Q0    443  143 0.01463703  Justice league
+
+023 Q0    677  144 0.01463703  Justice league
+
+023 Q0    789  145 0.01463703  Justice league
+
+023 Q0    869  146 0.01463703  Justice league
+
+023 Q0    1184  147 0.01357968  Justice league
+
+023 Q0    610  148 0.01357968  Justice league
+
+023 Q0    672  149 0.01357968  Justice league
+
+023 Q0    1104  150 0.01290616  Justice league
+
+023 Q0    1197  151 0.01290616  Justice league
+
+023 Q0    1272  152 0.01290616  Justice league
+
+023 Q0    1328  153 0.01290616  Justice league
+
+023 Q0    272  154 0.01290616  Justice league
+
+023 Q0    289  155 0.01290616  Justice league
+
+023 Q0    51  156 0.01290616  Justice league
+
+023 Q0    599  157 0.01290616  Justice league
+
+023 Q0    606  158 0.01290616  Justice league
+
+023 Q0    708  159 0.01290616  Justice league
+
+023 Q0    1215  160 0.01188222  Justice league
+
+023 Q0    1321  161 0.01188222  Justice league
+
+023 Q0    156  162 0.01188222  Justice league
+
+023 Q0    258  163 0.01188222  Justice league
+
+023 Q0    362  164 0.01188222  Justice league
+
+023 Q0    628  165 0.01188222  Justice league
+
+023 Q0    629  166 0.01188222  Justice league
+
+023 Q0    678  167 0.01188222  Justice league
+
+023 Q0    870  168 0.01188222  Justice league
+
+023 Q0    909  169 0.01188222  Justice league
+
+023 Q0    1192  170 0.01170962  Justice league
+
+023 Q0    1290  171 0.01170962  Justice league
+
+023 Q0    1339  172 0.01170962  Justice league
+
+023 Q0    1386  173 0.01170962  Justice league
+
+023 Q0    200  174 0.01170962  Justice league
+
+023 Q0    248  175 0.01170962  Justice league
+
+023 Q0    279  176 0.01170962  Justice league
+
+023 Q0    52  177 0.01170962  Justice league
+
+023 Q0    54  178 0.01170962  Justice league
+
+023 Q0    545  179 0.01170962  Justice league
+
+023 Q0    676  180 0.01170962  Justice league
+
+023 Q0    779  181 0.01170962  Justice league
+
+023 Q0    782  182 0.01170962  Justice league
+
+023 Q0    783  183 0.01170962  Justice league
+
+023 Q0    924  184 0.01170962  Justice league
+
+023 Q0    938  185 0.01170962  Justice league
+
+023 Q0    1115  186 0.01032493  Justice league
+
+023 Q0    205  187 0.01032493  Justice league
+
+023 Q0    29  188 0.01032493  Justice league
+
+023 Q0    296  189 0.01032493  Justice league
+
+023 Q0    441  190 0.01032493  Justice league
+
+023 Q0    546  191 0.01032493  Justice league
+
+023 Q0    567  192 0.01032493  Justice league
+
+023 Q0    638  193 0.01032493  Justice league
+
+023 Q0    689  194 0.01032493  Justice league
+
+023 Q0    704  195 0.01032493  Justice league
+
+023 Q0    709  196 0.01032493  Justice league
+
+023 Q0    712  197 0.01032493  Justice league
+
+023 Q0    859  198 0.01032493  Justice league
+
+023 Q0    860  199 0.01032493  Justice league
+
+023 Q0    861  200 0.01032493  Justice league
+
+023 Q0    947  201 0.01032493  Justice league
+
+023 Q0    701  202 0.01024592  Justice league
+
+023 Q0    1177  203 0.01018476  Justice league
+
+023 Q0    1324  204 0.01018476  Justice league
+
+023 Q0    1337  205 0.01018476  Justice league
+
+023 Q0    139  206 0.01018476  Justice league
+
+023 Q0    286  207 0.01018476  Justice league
+
+023 Q0    288  208 0.01018476  Justice league
+
+023 Q0    319  209 0.01018476  Justice league
+
+023 Q0    331  210 0.01018476  Justice league
+
+023 Q0    342  211 0.01018476  Justice league
+
+023 Q0    353  212 0.01018476  Justice league
+
+023 Q0    371  213 0.01018476  Justice league
+
+023 Q0    44  214 0.01018476  Justice league
+
+023 Q0    496  215 0.01018476  Justice league
+
+023 Q0    520  216 0.01018476  Justice league
+
+023 Q0    562  217 0.01018476  Justice league
+
+023 Q0    697  218 0.01018476  Justice league
+
+023 Q0    79  219 0.01018476  Justice league
+
+023 Q0    811  220 0.01018476  Justice league
+
+023 Q0    662  221 0.00903431  Justice league
+
+023 Q0    688  222 0.00903431  Justice league
+
+023 Q0    711  223 0.00903431  Justice league
+
+023 Q0    999  224 0.00903431  Justice league
+
+023 Q0    1093  225 0.008487301  Justice league
+
+023 Q0    1131  226 0.008487301  Justice league
+
+023 Q0    1211  227 0.008487301  Justice league
+
+023 Q0    1212  228 0.008487301  Justice league
+
+023 Q0    1225  229 0.008487301  Justice league
+
+023 Q0    1265  230 0.008487301  Justice league
+
+023 Q0    128  231 0.008487301  Justice league
+
+023 Q0    1300  232 0.008487301  Justice league
+
+023 Q0    132  233 0.008487301  Justice league
+
+023 Q0    1350  234 0.008487301  Justice league
+
+023 Q0    173  235 0.008487301  Justice league
+
+023 Q0    252  236 0.008487301  Justice league
+
+023 Q0    275  237 0.008487301  Justice league
+
+023 Q0    291  238 0.008487301  Justice league
+
+023 Q0    293  239 0.008487301  Justice league
+
+023 Q0    303  240 0.008487301  Justice league
+
+023 Q0    380  241 0.008487301  Justice league
+
+023 Q0    42  242 0.008487301  Justice league
+
+023 Q0    43  243 0.008487301  Justice league
+
+023 Q0    646  244 0.008487301  Justice league
+
+023 Q0    7  245 0.008487301  Justice league
+
+023 Q0    763  246 0.008487301  Justice league
+
+023 Q0    8  247 0.008487301  Justice league
+
+023 Q0    822  248 0.008487301  Justice league
+
+023 Q0    823  249 0.008487301  Justice league
+
+023 Q0    1066  250 0.007743695  Justice league
+
+023 Q0    1083  251 0.007091653  Justice league
+
+023 Q0    1148  252 0.007091653  Justice league
+
+023 Q0    1189  253 0.007091653  Justice league
+
+023 Q0    1190  254 0.007091653  Justice league
+
+023 Q0    1245  255 0.007091653  Justice league
+
+023 Q0    1275  256 0.007091653  Justice league
+
+023 Q0    1297  257 0.007091653  Justice league
+
+023 Q0    1313  258 0.007091653  Justice league
+
+023 Q0    144  259 0.007091653  Justice league
+
+023 Q0    157  260 0.007091653  Justice league
+
+023 Q0    167  261 0.007091653  Justice league
+
+023 Q0    186  262 0.007091653  Justice league
+
+023 Q0    21  263 0.007091653  Justice league
+
+023 Q0    216  264 0.007091653  Justice league
+
+023 Q0    257  265 0.007091653  Justice league
+
+023 Q0    36  266 0.007091653  Justice league
+
+023 Q0    417  267 0.007091653  Justice league
+
+023 Q0    427  268 0.007091653  Justice league
+
+023 Q0    472  269 0.007091653  Justice league
+
+023 Q0    607  270 0.007091653  Justice league
+
+023 Q0    653  271 0.007091653  Justice league
+
+023 Q0    785  272 0.007091653  Justice league
+
+023 Q0    892  273 0.007091653  Justice league
+
+023 Q0    959  274 0.007091653  Justice league
+
+023 Q0    1051  275 0.006789841  Justice league
+
+023 Q0    1064  276 0.006789841  Justice league
+
+023 Q0    1095  277 0.006789841  Justice league
+
+023 Q0    1096  278 0.006789841  Justice league
+
+023 Q0    1159  279 0.006789841  Justice league
+
+023 Q0    1292  280 0.006789841  Justice league
+
+023 Q0    1338  281 0.006789841  Justice league
+
+023 Q0    1349  282 0.006789841  Justice league
+
+023 Q0    1355  283 0.006789841  Justice league
+
+023 Q0    174  284 0.006789841  Justice league
+
+023 Q0    197  285 0.006789841  Justice league
+
+023 Q0    282  286 0.006789841  Justice league
+
+023 Q0    311  287 0.006789841  Justice league
+
+023 Q0    315  288 0.006789841  Justice league
+
+023 Q0    416  289 0.006789841  Justice league
+
+023 Q0    442  290 0.006789841  Justice league
+
+023 Q0    528  291 0.006789841  Justice league
+
+023 Q0    560  292 0.006789841  Justice league
+
+023 Q0    568  293 0.006789841  Justice league
+
+023 Q0    57  294 0.006789841  Justice league
+
+023 Q0    634  295 0.006789841  Justice league
+
+023 Q0    655  296 0.006789841  Justice league
+
+023 Q0    692  297 0.006789841  Justice league
+
+023 Q0    693  298 0.006789841  Justice league
+
+023 Q0    799  299 0.006789841  Justice league
+
+023 Q0    80  300 0.006789841  Justice league
+
+023 Q0    839  301 0.006789841  Justice league
+
+023 Q0    848  302 0.006789841  Justice league
+
+023 Q0    865  303 0.006789841  Justice league
+
+023 Q0    946  304 0.006789841  Justice league
+
+023 Q0    973  305 0.006789841  Justice league
+
+023 Q0    379  306 0.006268195  Justice league
+
+023 Q0    394  307 0.006268195  Justice league
+
+023 Q0    45  308 0.006268195  Justice league
+
+023 Q0    633  309 0.006268195  Justice league
+
+023 Q0    984  310 0.006268195  Justice league
+
+023 Q0    1108  311 0.006205196  Justice league
+
+023 Q0    1151  312 0.006205196  Justice league
+
+023 Q0    1194  313 0.006205196  Justice league
+
+023 Q0    1210  314 0.006205196  Justice league
+
+023 Q0    1249  315 0.006205196  Justice league
+
+023 Q0    1250  316 0.006205196  Justice league
+
+023 Q0    1267  317 0.006205196  Justice league
+
+023 Q0    1283  318 0.006205196  Justice league
+
+023 Q0    1330  319 0.006205196  Justice league
+
+023 Q0    152  320 0.006205196  Justice league
+
+023 Q0    159  321 0.006205196  Justice league
+
+023 Q0    165  322 0.006205196  Justice league
+
+023 Q0    166  323 0.006205196  Justice league
+
+023 Q0    18  324 0.006205196  Justice league
+
+023 Q0    217  325 0.006205196  Justice league
+
+023 Q0    236  326 0.006205196  Justice league
+
+023 Q0    27  327 0.006205196  Justice league
+
+023 Q0    310  328 0.006205196  Justice league
+
+023 Q0    317  329 0.006205196  Justice league
+
+023 Q0    347  330 0.006205196  Justice league
+
+023 Q0    398  331 0.006205196  Justice league
+
+023 Q0    404  332 0.006205196  Justice league
+
+023 Q0    450  333 0.006205196  Justice league
+
+023 Q0    452  334 0.006205196  Justice league
+
+023 Q0    468  335 0.006205196  Justice league
+
+023 Q0    485  336 0.006205196  Justice league
+
+023 Q0    531  337 0.006205196  Justice league
+
+023 Q0    537  338 0.006205196  Justice league
+
+023 Q0    579  339 0.006205196  Justice league
+
+023 Q0    625  340 0.006205196  Justice league
+
+023 Q0    63  341 0.006205196  Justice league
+
+023 Q0    659  342 0.006205196  Justice league
+
+023 Q0    770  343 0.006205196  Justice league
+
+023 Q0    771  344 0.006205196  Justice league
+
+023 Q0    775  345 0.006205196  Justice league
+
+023 Q0    88  346 0.006205196  Justice league
+
+023 Q0    975  347 0.006205196  Justice league
+
+023 Q0    998  348 0.006205196  Justice league
+
+023 Q0    1381  349 0.005941111  Justice league
+
+023 Q0    695  350 0.005941111  Justice league
+
+023 Q0    857  351 0.005941111  Justice league
+
+023 Q0    858  352 0.005941111  Justice league
+
+023 Q0    106  353 0.00531874  Justice league
+
+023 Q0    1084  354 0.00531874  Justice league
+
+023 Q0    109  355 0.00531874  Justice league
+
+023 Q0    1110  356 0.00531874  Justice league
+
+023 Q0    116  357 0.00531874  Justice league
+
+023 Q0    1179  358 0.00531874  Justice league
+
+023 Q0    118  359 0.00531874  Justice league
+
+023 Q0    1180  360 0.00531874  Justice league
+
+023 Q0    1181  361 0.00531874  Justice league
+
+023 Q0    1182  362 0.00531874  Justice league
+
+023 Q0    119  363 0.00531874  Justice league
+
+023 Q0    1198  364 0.00531874  Justice league
+
+023 Q0    1200  365 0.00531874  Justice league
+
+023 Q0    121  366 0.00531874  Justice league
+
+023 Q0    1231  367 0.00531874  Justice league
+
+023 Q0    1233  368 0.00531874  Justice league
+
+023 Q0    1238  369 0.00531874  Justice league
+
+023 Q0    1242  370 0.00531874  Justice league
+
+023 Q0    1251  371 0.00531874  Justice league
+
+023 Q0    1255  372 0.00531874  Justice league
+
+023 Q0    1280  373 0.00531874  Justice league
+
+023 Q0    1302  374 0.00531874  Justice league
+
+023 Q0    1306  375 0.00531874  Justice league
+
+023 Q0    134  376 0.00531874  Justice league
+
+023 Q0    1356  377 0.00531874  Justice league
+
+023 Q0    1373  378 0.00531874  Justice league
+
+023 Q0    1385  379 0.00531874  Justice league
+
+023 Q0    1391  380 0.00531874  Justice league
+
+023 Q0    145  381 0.00531874  Justice league
+
+023 Q0    161  382 0.00531874  Justice league
+
+023 Q0    17  383 0.00531874  Justice league
+
+023 Q0    180  384 0.00531874  Justice league
+
+023 Q0    183  385 0.00531874  Justice league
+
+023 Q0    192  386 0.00531874  Justice league
+
+023 Q0    196  387 0.00531874  Justice league
+
+023 Q0    22  388 0.00531874  Justice league
+
+023 Q0    240  389 0.00531874  Justice league
+
+023 Q0    25  390 0.00531874  Justice league
+
+023 Q0    273  391 0.00531874  Justice league
+
+023 Q0    299  392 0.00531874  Justice league
+
+023 Q0    313  393 0.00531874  Justice league
+
+023 Q0    318  394 0.00531874  Justice league
+
+023 Q0    335  395 0.00531874  Justice league
+
+023 Q0    35  396 0.00531874  Justice league
+
+023 Q0    360  397 0.00531874  Justice league
+
+023 Q0    375  398 0.00531874  Justice league
+
+023 Q0    385  399 0.00531874  Justice league
+
+023 Q0    386  400 0.00531874  Justice league
+
+023 Q0    387  401 0.00531874  Justice league
+
+023 Q0    39  402 0.00531874  Justice league
+
+023 Q0    393  403 0.00531874  Justice league
+
+023 Q0    395  404 0.00531874  Justice league
+
+023 Q0    418  405 0.00531874  Justice league
+
+023 Q0    428  406 0.00531874  Justice league
+
+023 Q0    439  407 0.00531874  Justice league
+
+023 Q0    457  408 0.00531874  Justice league
+
+023 Q0    469  409 0.00531874  Justice league
+
+023 Q0    48  410 0.00531874  Justice league
+
+023 Q0    491  411 0.00531874  Justice league
+
+023 Q0    494  412 0.00531874  Justice league
+
+023 Q0    500  413 0.00531874  Justice league
+
+023 Q0    53  414 0.00531874  Justice league
+
+023 Q0    535  415 0.00531874  Justice league
+
+023 Q0    550  416 0.00531874  Justice league
+
+023 Q0    570  417 0.00531874  Justice league
+
+023 Q0    578  418 0.00531874  Justice league
+
+023 Q0    589  419 0.00531874  Justice league
+
+023 Q0    6  420 0.00531874  Justice league
+
+023 Q0    626  421 0.00531874  Justice league
+
+023 Q0    630  422 0.00531874  Justice league
+
+023 Q0    657  423 0.00531874  Justice league
+
+023 Q0    663  424 0.00531874  Justice league
+
+023 Q0    680  425 0.00531874  Justice league
+
+023 Q0    682  426 0.00531874  Justice league
+
+023 Q0    706  427 0.00531874  Justice league
+
+023 Q0    750  428 0.00531874  Justice league
+
+023 Q0    774  429 0.00531874  Justice league
+
+023 Q0    802  430 0.00531874  Justice league
+
+023 Q0    818  431 0.00531874  Justice league
+
+023 Q0    89  432 0.00531874  Justice league
+
+023 Q0    903  433 0.00531874  Justice league
+
+023 Q0    920  434 0.00531874  Justice league
+
+023 Q0    965  435 0.00531874  Justice league
+
+023 Q0    97  436 0.00531874  Justice league
+
+023 Q0    98  437 0.00531874  Justice league
+
+023 Q0    766  438 0.005092381  Justice league
+
+023 Q0    1143  439 0.005014556  Justice league
+
+023 Q0    105  440 0.004432283  Justice league
+
+023 Q0    1080  441 0.004432283  Justice league
+
+023 Q0    1105  442 0.004432283  Justice league
+
+023 Q0    1202  443 0.004432283  Justice league
+
+023 Q0    1228  444 0.004432283  Justice league
+
+023 Q0    1253  445 0.004432283  Justice league
+
+023 Q0    1256  446 0.004432283  Justice league
+
+023 Q0    1259  447 0.004432283  Justice league
+
+023 Q0    1282  448 0.004432283  Justice league
+
+023 Q0    1284  449 0.004432283  Justice league
+
+023 Q0    1309  450 0.004432283  Justice league
+
+023 Q0    1310  451 0.004432283  Justice league
+
+023 Q0    1323  452 0.004432283  Justice league
+
+023 Q0    1325  453 0.004432283  Justice league
+
+023 Q0    1354  454 0.004432283  Justice league
+
+023 Q0    1377  455 0.004432283  Justice league
+
+023 Q0    1394  456 0.004432283  Justice league
+
+023 Q0    146  457 0.004432283  Justice league
+
+023 Q0    147  458 0.004432283  Justice league
+
+023 Q0    149  459 0.004432283  Justice league
+
+023 Q0    160  460 0.004432283  Justice league
+
+023 Q0    193  461 0.004432283  Justice league
+
+023 Q0    2  462 0.004432283  Justice league
+
+023 Q0    222  463 0.004432283  Justice league
+
+023 Q0    224  464 0.004432283  Justice league
+
+023 Q0    242  465 0.004432283  Justice league
+
+023 Q0    259  466 0.004432283  Justice league
+
+023 Q0    261  467 0.004432283  Justice league
+
+023 Q0    278  468 0.004432283  Justice league
+
+023 Q0    28  469 0.004432283  Justice league
+
+023 Q0    280  470 0.004432283  Justice league
+
+023 Q0    298  471 0.004432283  Justice league
+
+023 Q0    3  472 0.004432283  Justice league
+
+023 Q0    304  473 0.004432283  Justice league
+
+023 Q0    306  474 0.004432283  Justice league
+
+023 Q0    308  475 0.004432283  Justice league
+
+023 Q0    328  476 0.004432283  Justice league
+
+023 Q0    332  477 0.004432283  Justice league
+
+023 Q0    333  478 0.004432283  Justice league
+
+023 Q0    351  479 0.004432283  Justice league
+
+023 Q0    352  480 0.004432283  Justice league
+
+023 Q0    361  481 0.004432283  Justice league
+
+023 Q0    37  482 0.004432283  Justice league
+
+023 Q0    378  483 0.004432283  Justice league
+
+023 Q0    382  484 0.004432283  Justice league
+
+023 Q0    383  485 0.004432283  Justice league
+
+023 Q0    388  486 0.004432283  Justice league
+
+023 Q0    389  487 0.004432283  Justice league
+
+023 Q0    4  488 0.004432283  Justice league
+
+023 Q0    407  489 0.004432283  Justice league
+
+023 Q0    410  490 0.004432283  Justice league
+
+023 Q0    420  491 0.004432283  Justice league
+
+023 Q0    423  492 0.004432283  Justice league
+
+023 Q0    426  493 0.004432283  Justice league
+
+023 Q0    440  494 0.004432283  Justice league
+
+023 Q0    445  495 0.004432283  Justice league
+
+023 Q0    455  496 0.004432283  Justice league
+
+023 Q0    456  497 0.004432283  Justice league
+
+023 Q0    464  498 0.004432283  Justice league
+
+023 Q0    466  499 0.004432283  Justice league
+
+023 Q0    467  500 0.004432283  Justice league
+
+023 Q0    483  501 0.004432283  Justice league
+
+023 Q0    495  502 0.004432283  Justice league
+
+023 Q0    501  503 0.004432283  Justice league
+
+023 Q0    523  504 0.004432283  Justice league
+
+023 Q0    525  505 0.004432283  Justice league
+
+023 Q0    526  506 0.004432283  Justice league
+
+023 Q0    533  507 0.004432283  Justice league
+
+023 Q0    534  508 0.004432283  Justice league
+
+023 Q0    539  509 0.004432283  Justice league
+
+023 Q0    541  510 0.004432283  Justice league
+
+023 Q0    544  511 0.004432283  Justice league
+
+023 Q0    549  512 0.004432283  Justice league
+
+023 Q0    561  513 0.004432283  Justice league
+
+023 Q0    574  514 0.004432283  Justice league
+
+023 Q0    576  515 0.004432283  Justice league
+
+023 Q0    61  516 0.004432283  Justice league
+
+023 Q0    660  517 0.004432283  Justice league
+
+023 Q0    665  518 0.004432283  Justice league
+
+023 Q0    669  519 0.004432283  Justice league
+
+023 Q0    686  520 0.004432283  Justice league
+
+023 Q0    690  521 0.004432283  Justice league
+
+023 Q0    70  522 0.004432283  Justice league
+
+023 Q0    751  523 0.004432283  Justice league
+
+023 Q0    784  524 0.004432283  Justice league
+
+023 Q0    793  525 0.004432283  Justice league
+
+023 Q0    81  526 0.004432283  Justice league
+
+023 Q0    87  527 0.004432283  Justice league
+
+023 Q0    895  528 0.004432283  Justice league
+
+023 Q0    900  529 0.004432283  Justice league
+
+023 Q0    902  530 0.004432283  Justice league
+
+023 Q0    916  531 0.004432283  Justice league
+
+023 Q0    918  532 0.004432283  Justice league
+
+023 Q0    922  533 0.004432283  Justice league
+
+023 Q0    933  534 0.004432283  Justice league
+
+023 Q0    949  535 0.004432283  Justice league
+
+023 Q0    988  536 0.004432283  Justice league
+
+023 Q0    989  537 0.004432283  Justice league
+
+023 Q0    1078  538 0.003545827  Justice league
+
+023 Q0    1081  539 0.003545827  Justice league
+
+023 Q0    1106  540 0.003545827  Justice league
+
+023 Q0    1153  541 0.003545827  Justice league
+
+023 Q0    1281  542 0.003545827  Justice league
+
+023 Q0    23  543 0.003545827  Justice league
+
+023 Q0    232  544 0.003545827  Justice league
+
+023 Q0    244  545 0.003545827  Justice league
+
+023 Q0    269  546 0.003545827  Justice league
+
+023 Q0    277  547 0.003545827  Justice league
+
+023 Q0    294  548 0.003545827  Justice league
+
+023 Q0    325  549 0.003545827  Justice league
+
+023 Q0    372  550 0.003545827  Justice league
+
+023 Q0    430  551 0.003545827  Justice league
+
+023 Q0    433  552 0.003545827  Justice league
+
+023 Q0    470  553 0.003545827  Justice league
+
+023 Q0    487  554 0.003545827  Justice league
+
+023 Q0    514  555 0.003545827  Justice league
+
+023 Q0    556  556 0.003545827  Justice league
+
+023 Q0    557  557 0.003545827  Justice league
+
+023 Q0    56  558 0.003545827  Justice league
+
+023 Q0    571  559 0.003545827  Justice league
+
+023 Q0    597  560 0.003545827  Justice league
+
+023 Q0    602  561 0.003545827  Justice league
+
+023 Q0    604  562 0.003545827  Justice league
+
+023 Q0    612  563 0.003545827  Justice league
+
+023 Q0    637  564 0.003545827  Justice league
+
+023 Q0    651  565 0.003545827  Justice league
+
+023 Q0    661  566 0.003545827  Justice league
+
+023 Q0    675  567 0.003545827  Justice league
+
+023 Q0    683  568 0.003545827  Justice league
+
+023 Q0    699  569 0.003545827  Justice league
+
+023 Q0    705  570 0.003545827  Justice league
+
+023 Q0    773  571 0.003545827  Justice league
+
+023 Q0    801  572 0.003545827  Justice league
+
+023 Q0    919  573 0.003545827  Justice league
+
+023 Q0    967  574 0.003545827  Justice league
+
+023 Q0    986  575 0.003545827  Justice league
+
+023 Q0    696  576 0.003102598  Justice league
+
+023 Q0    757  577 0.003102598  Justice league
+
+023 Q0    970  578 0.003102598  Justice league
+
+023 Q0    991  579 0.003102598  Justice league
+
+157 Q0    725  1 0.2293266  Justice league
+
+157 Q0    834  2 0.1544498  Justice league
+
+157 Q0    911  3 0.1427801  Justice league
+
+157 Q0    497  4 0.1375456  Justice league
+
+157 Q0    909  5 0.1185738  Justice league
+
+157 Q0    640  6 0.1002131  Justice league
+
+157 Q0    237  7 0.07274546  Justice league
+
+157 Q0    720  8 0.0631613  Justice league
+
+157 Q0    1165  9 0.05475069  Justice league
+
+157 Q0    209  10 0.04780108  Justice league
+
+157 Q0    47  11 0.04245033  Justice league
+
+157 Q0    883  12 0.04245033  Justice league
+
+157 Q0    837  13 0.04132181  Justice league
+
+157 Q0    52  14 0.04074497  Justice league
+
+157 Q0    997  15 0.04007705  Justice league
+
+157 Q0    810  16 0.03983423  Justice league
+
+157 Q0    1012  17 0.03537527  Justice league
+
+157 Q0    51  18 0.03537527  Justice league
+
+157 Q0    195  19 0.03510075  Justice league
+
+157 Q0    1041  20 0.03375273  Justice league
+
+157 Q0    1062  21 0.03339754  Justice league
+
+157 Q0    1074  22 0.03339754  Justice league
+
+157 Q0    544  23 0.03339754  Justice league
+
+157 Q0    1279  24 0.02880393  Justice league
+
+157 Q0    688  25 0.02876482  Justice league
+
+157 Q0    1167  26 0.02693765  Justice league
+
+157 Q0    1075  27 0.02671803  Justice league
+
+157 Q0    950  28 0.02671803  Justice league
+
+157 Q0    986  29 0.02630584  Justice league
+
+157 Q0    662  30 0.02337828  Justice league
+
+157 Q0    1362  31 0.02327563  Justice league
+
+157 Q0    122  32 0.02036617  Justice league
+
+157 Q0    1225  33 0.02036617  Justice league
+
+157 Q0    130  34 0.01975385  Justice league
+
+157 Q0    456  35 0.0195445  Justice league
+
+157 Q0    202  36 0.01874577  Justice league
+
+157 Q0    136  37 0.01831641  Justice league
+
+157 Q0    579  38 0.01831641  Justice league
+
+157 Q0    254  39 0.01800246  Justice league
+
+157 Q0    1182  40 0.01745672  Justice league
+
+157 Q0    406  41 0.01728462  Justice league
+
+157 Q0    870  42 0.01728462  Justice league
+
+157 Q0    1244  43 0.01687077  Justice league
+
+157 Q0    151  44 0.01687077  Justice league
+
+157 Q0    1302  45 0.01569978  Justice league
+
+157 Q0    1391  46 0.01569978  Justice league
+
+157 Q0    743  47 0.01569978  Justice league
+
+157 Q0    741  48 0.01481538  Justice league
+
+157 Q0    802  49 0.01481538  Justice league
+
+157 Q0    219  50 0.01476193  Justice league
+
+157 Q0    608  51 0.01476193  Justice league
+
+157 Q0    721  52 0.01476193  Justice league
+
+157 Q0    353  53 0.01454727  Justice league
+
+157 Q0    430  54 0.01440197  Justice league
+
+157 Q0    604  55 0.01440197  Justice league
+
+157 Q0    704  56 0.01440197  Justice league
+
+157 Q0    1134  57 0.0143648  Justice league
+
+157 Q0    592  58 0.0143648  Justice league
+
+157 Q0    650  59 0.0143648  Justice league
+
+157 Q0    1327  60 0.0133036  Justice league
+
+157 Q0    724  61 0.0133036  Justice league
+
+157 Q0    726  62 0.0133036  Justice league
+
+157 Q0    100  63 0.01312204  Justice league
+
+157 Q0    914  64 0.01312204  Justice league
+
+157 Q0    316  65 0.01308315  Justice league
+
+157 Q0    466  66 0.01308315  Justice league
+
+157 Q0    753  67 0.01308315  Justice league
+
+157 Q0    1099  68 0.01292987  Justice league
+
+157 Q0    221  69 0.01292987  Justice league
+
+157 Q0    233  70 0.01292987  Justice league
+
+157 Q0    503  71 0.01292987  Justice league
+
+157 Q0    129  72 0.01265308  Justice league
+
+157 Q0    722  73 0.01265308  Justice league
+
+157 Q0    691  74 0.01260172  Justice league
+
+157 Q0    1293  75 0.0125692  Justice league
+
+157 Q0    880  76 0.0125692  Justice league
+
+157 Q0    128  77 0.01234615  Justice league
+
+157 Q0    740  78 0.01234615  Justice league
+
+157 Q0    742  79 0.01234615  Justice league
+
+157 Q0    767  80 0.01234615  Justice league
+
+157 Q0    926  81 0.01234615  Justice league
+
+157 Q0    1097  82 0.01194104  Justice league
+
+157 Q0    756  83 0.01164065  Justice league
+
+157 Q0    884  84 0.01164065  Justice league
+
+157 Q0    1089  85 0.01124746  Justice league
+
+157 Q0    1169  86 0.01124746  Justice league
+
+157 Q0    78  87 0.01124746  Justice league
+
+157 Q0    792  88 0.01124746  Justice league
+
+157 Q0    240  89 0.01108275  Justice league
+
+157 Q0    370  90 0.01108275  Justice league
+
+157 Q0    593  91 0.01108275  Justice league
+
+157 Q0    1069  92 0.0107736  Justice league
+
+157 Q0    301  93 0.0107736  Justice league
+
+157 Q0    367  94 0.0107736  Justice league
+
+157 Q0    415  95 0.0107736  Justice league
+
+157 Q0    535  96 0.0107736  Justice league
+
+157 Q0    220  97 0.01054423  Justice league
+
+157 Q0    658  98 0.01054423  Justice league
+
+157 Q0    966  99 0.01046652  Justice league
+
+157 Q0    1  100 0.01044841  Justice league
+
+157 Q0    344  101 0.01044841  Justice league
+
+157 Q0    1170  102 0.009977701  Justice league
+
+157 Q0    12  103 0.009977701  Justice league
+
+157 Q0    1361  104 0.009977701  Justice league
+
+157 Q0    395  105 0.009977701  Justice league
+
+157 Q0    654  106 0.009977701  Justice league
+
+157 Q0    75  107 0.009977701  Justice league
+
+157 Q0    862  108 0.009977701  Justice league
+
+157 Q0    92  109 0.009977701  Justice league
+
+157 Q0    865  110 0.009876924  Justice league
+
+157 Q0    1144  111 0.009372885  Justice league
+
+157 Q0    1197  112 0.009372885  Justice league
+
+157 Q0    1328  113 0.009372885  Justice league
+
+157 Q0    253  114 0.009372885  Justice league
+
+157 Q0    1199  115 0.009235622  Justice league
+
+157 Q0    1374  116 0.009235622  Justice league
+
+157 Q0    1377  117 0.009235622  Justice league
+
+157 Q0    1384  118 0.009235622  Justice league
+
+157 Q0    287  119 0.009235622  Justice league
+
+157 Q0    289  120 0.009235622  Justice league
+
+157 Q0    1033  121 0.008978002  Justice league
+
+157 Q0    1136  122 0.008978002  Justice league
+
+157 Q0    215  123 0.008978002  Justice league
+
+157 Q0    246  124 0.008978002  Justice league
+
+157 Q0    341  125 0.008978002  Justice league
+
+157 Q0    419  126 0.008978002  Justice league
+
+157 Q0    674  127 0.008978002  Justice league
+
+157 Q0    758  128 0.008978002  Justice league
+
+157 Q0    868  129 0.008978002  Justice league
+
+157 Q0    893  130 0.008978002  Justice league
+
+157 Q0    945  131 0.008978002  Justice league
+
+157 Q0    984  132 0.008978002  Justice league
+
+157 Q0    1364  133 0.008955778  Justice league
+
+157 Q0    271  134 0.008955778  Justice league
+
+157 Q0    772  135 0.008955778  Justice league
+
+157 Q0    847  136 0.008955778  Justice league
+
+157 Q0    856  137 0.008955778  Justice league
+
+157 Q0    878  138 0.008955778  Justice league
+
+157 Q0    727  139 0.008435386  Justice league
+
+157 Q0    805  140 0.008435386  Justice league
+
+157 Q0    806  141 0.008435386  Justice league
+
+157 Q0    807  142 0.008435386  Justice league
+
+157 Q0    1130  143 0.008314751  Justice league
+
+157 Q0    30  144 0.008314751  Justice league
+
+157 Q0    723  145 0.008314751  Justice league
+
+157 Q0    762  146 0.008314751  Justice league
+
+157 Q0    833  147 0.008314751  Justice league
+
+157 Q0    1163  148 0.007498308  Justice league
+
+157 Q0    1166  149 0.007498308  Justice league
+
+157 Q0    1168  150 0.007498308  Justice league
+
+157 Q0    1098  151 0.007463148  Justice league
+
+157 Q0    189  152 0.007463148  Justice league
+
+157 Q0    256  153 0.007463148  Justice league
+
+157 Q0    420  154 0.007463148  Justice league
+
+157 Q0    423  155 0.007463148  Justice league
+
+157 Q0    549  156 0.007463148  Justice league
+
+157 Q0    74  157 0.007463148  Justice league
+
+157 Q0    84  158 0.007463148  Justice league
+
+157 Q0    1367  159 0.007388498  Justice league
+
+157 Q0    432  160 0.007388498  Justice league
+
+157 Q0    560  161 0.007388498  Justice league
+
+157 Q0    82  162 0.007388498  Justice league
+
+157 Q0    919  163 0.007388498  Justice league
+
+157 Q0    1124  164 0.007182402  Justice league
+
+157 Q0    239  165 0.007182402  Justice league
+
+157 Q0    602  166 0.007182402  Justice league
+
+157 Q0    985  167 0.007182402  Justice league
+
+157 Q0    171  168 0.006651801  Justice league
+
+157 Q0    860  169 0.006651801  Justice league
+
+157 Q0    979  170 0.006651801  Justice league
+
+157 Q0    1155  171 0.005970519  Justice league
+
+157 Q0    1156  172 0.005970519  Justice league
+
+157 Q0    1159  173 0.005970519  Justice league
+
+157 Q0    1204  174 0.005970519  Justice league
+
+157 Q0    1218  175 0.005970519  Justice league
+
+157 Q0    339  176 0.005970519  Justice league
+
+157 Q0    372  177 0.005970519  Justice league
+
+157 Q0    558  178 0.005970519  Justice league
+
+157 Q0    569  179 0.005970519  Justice league
+
+157 Q0    801  180 0.005970519  Justice league
+
+157 Q0    836  181 0.005970519  Justice league
+
+157 Q0    816  182 0.005224203  Justice league
+
+157 Q0    857  183 0.005224203  Justice league
+
+157 Q0    858  184 0.005224203  Justice league
+
+157 Q0    766  185 0.004477889  Justice league
+
+219 Q0    930  1 0.2844264  Justice league
+
+219 Q0    1361  2 0.1004672  Justice league
+
+219 Q0    1363  3 0.1004672  Justice league
+
+219 Q0    579  4 0.09870168  Justice league
+
+219 Q0    931  5 0.08471595  Justice league
+
+219 Q0    1056  6 0.08372264  Justice league
+
+219 Q0    1070  7 0.07412645  Justice league
+
+219 Q0    937  8 0.07412645  Justice league
+
+219 Q0    957  9 0.07412645  Justice league
+
+219 Q0    1095  10 0.06697811  Justice league
+
+219 Q0    1131  11 0.05294747  Justice league
+
+219 Q0    898  12 0.05294747  Justice league
+
+219 Q0    936  13 0.05294747  Justice league
+
+219 Q0    91  14 0.04640257  Justice league
+
+219 Q0    934  15 0.04235797  Justice league
+
+219 Q0    1323  16 0.03866881  Justice league
+
+219 Q0    237  17 0.03866881  Justice league
+
+219 Q0    130  18 0.03499846  Justice league
+
+219 Q0    136  19 0.03245172  Justice league
+
+219 Q0    830  20 0.03245172  Justice league
+
+219 Q0    406  21 0.03062365  Justice league
+
+219 Q0    870  22 0.03062365  Justice league
+
+219 Q0    46  23 0.02989043  Justice league
+
+219 Q0    1048  24 0.02781576  Justice league
+
+219 Q0    1302  25 0.02781576  Justice league
+
+219 Q0    1391  26 0.02781576  Justice league
+
+219 Q0    743  27 0.02781576  Justice league
+
+219 Q0    741  28 0.02624885  Justice league
+
+219 Q0    802  29 0.02624885  Justice league
+
+219 Q0    756  30 0.02615413  Justice league
+
+219 Q0    316  31 0.0231798  Justice league
+
+219 Q0    466  32 0.0231798  Justice league
+
+219 Q0    753  33 0.0231798  Justice league
+
+219 Q0    228  34 0.02241783  Justice league
+
+219 Q0    128  35 0.02187404  Justice league
+
+219 Q0    740  36 0.02187404  Justice league
+
+219 Q0    742  37 0.02187404  Justice league
+
+219 Q0    767  38 0.02187404  Justice league
+
+219 Q0    837  39 0.02187404  Justice league
+
+219 Q0    926  40 0.02187404  Justice league
+
+219 Q0    587  41 0.01931329  Justice league
+
+219 Q0    627  42 0.01931329  Justice league
+
+219 Q0    648  43 0.01931329  Justice league
+
+219 Q0    840  44 0.01931329  Justice league
+
+219 Q0    1331  45 0.01868152  Justice league
+
+219 Q0    253  46 0.01868152  Justice league
+
+219 Q0    365  47 0.01868152  Justice league
+
+219 Q0    69  48 0.01868152  Justice league
+
+219 Q0    277  49 0.01854384  Justice league
+
+219 Q0    52  50 0.01854384  Justice league
+
+219 Q0    638  51 0.01854384  Justice league
+
+219 Q0    966  52 0.01854384  Justice league
+
+219 Q0    865  53 0.01749923  Justice league
+
+219 Q0    1041  54 0.01689912  Justice league
+
+219 Q0    581  55 0.01689912  Justice league
+
+219 Q0    737  56 0.01689912  Justice league
+
+219 Q0    954  57 0.01689912  Justice league
+
+219 Q0    688  58 0.01622586  Justice league
+
+219 Q0    1064  59 0.01494522  Justice league
+
+219 Q0    1091  60 0.01494522  Justice league
+
+219 Q0    354  61 0.01494522  Justice league
+
+219 Q0    435  62 0.01494522  Justice league
+
+219 Q0    448  63 0.01494522  Justice league
+
+219 Q0    509  64 0.01494522  Justice league
+
+219 Q0    1013  65 0.01448496  Justice league
+
+219 Q0    1014  66 0.01448496  Justice league
+
+219 Q0    1015  67 0.01448496  Justice league
+
+219 Q0    1016  68 0.01448496  Justice league
+
+219 Q0    1068  69 0.01448496  Justice league
+
+219 Q0    1135  70 0.01448496  Justice league
+
+219 Q0    1180  71 0.01448496  Justice league
+
+219 Q0    1294  72 0.01448496  Justice league
+
+219 Q0    1347  73 0.01448496  Justice league
+
+219 Q0    179  74 0.01448496  Justice league
+
+219 Q0    188  75 0.01448496  Justice league
+
+219 Q0    240  76 0.01448496  Justice league
+
+219 Q0    274  77 0.01448496  Justice league
+
+219 Q0    367  78 0.01448496  Justice league
+
+219 Q0    395  79 0.01448496  Justice league
+
+219 Q0    47  80 0.01448496  Justice league
+
+219 Q0    530  81 0.01448496  Justice league
+
+219 Q0    551  82 0.01448496  Justice league
+
+219 Q0    619  83 0.01448496  Justice league
+
+219 Q0    77  84 0.01448496  Justice league
+
+219 Q0    92  85 0.01448496  Justice league
+
+219 Q0    974  86 0.01448496  Justice league
+
+219 Q0    1094  87 0.01307707  Justice league
+
+219 Q0    1012  88 0.0120708  Justice league
+
+219 Q0    1208  89 0.0120708  Justice league
+
+219 Q0    1276  90 0.0120708  Justice league
+
+219 Q0    1288  91 0.0120708  Justice league
+
+219 Q0    1360  92 0.0120708  Justice league
+
+219 Q0    1362  93 0.0120708  Justice league
+
+219 Q0    1374  94 0.0120708  Justice league
+
+219 Q0    163  95 0.0120708  Justice league
+
+219 Q0    220  96 0.0120708  Justice league
+
+219 Q0    426  97 0.0120708  Justice league
+
+219 Q0    580  98 0.0120708  Justice league
+
+219 Q0    781  99 0.0120708  Justice league
+
+219 Q0    833  100 0.0120708  Justice league
+
+219 Q0    843  101 0.0120708  Justice league
+
+219 Q0    851  102 0.0120708  Justice league
+
+219 Q0    852  103 0.0120708  Justice league
+
+219 Q0    889  104 0.0120708  Justice league
+
+219 Q0    984  105 0.0120708  Justice league
+
+219 Q0    1090  106 0.009656643  Justice league
+
+219 Q0    1339  107 0.009656643  Justice league
+
+219 Q0    1386  108 0.009656643  Justice league
+
+219 Q0    340  109 0.009656643  Justice league
+
+219 Q0    56  110 0.009656643  Justice league
+
+219 Q0    707  111 0.009656643  Justice league
